@@ -1,5 +1,5 @@
 [![MasterHead]([https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRD7tqI01rFcJySc3ogy-dAqUqs_RQlrz2k2X_ibn5ogwXIkSiCDq5ut6Xgs71ewUSa8&usqp=CAU))](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Angwe Destiny</h1>
+<h1 align="center">Hi 👋, I'm Angwe Chima</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angwe-chima&label=Profile%20views&color=0e75b6&style=flat" alt="angwe-chima" /> </p>
